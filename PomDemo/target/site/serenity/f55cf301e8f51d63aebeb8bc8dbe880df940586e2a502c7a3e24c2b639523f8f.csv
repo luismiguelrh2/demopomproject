@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As user I want to login successfully","Login user successfully","SUCCESS","2024-01-12T21:11:03.5408434-05:00[America/Bogota]","0.0","0.31"
+"As user I want to login successfully","Login user successfully","ERROR","2024-01-12T23:51:31.3390887-05:00[America/Bogota]","0.0","7.28"
